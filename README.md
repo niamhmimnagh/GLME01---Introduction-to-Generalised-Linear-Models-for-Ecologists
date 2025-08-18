@@ -1,1 +1,1 @@
-# GLME01---Introduction-to-Generalised-Linear-Models-for-Ecologists
+# GLME01 - Introduction to Generalised Linear Models for Ecologists
